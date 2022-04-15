@@ -1,0 +1,20 @@
+.container {
+    width: 100%;
+    margin-top: 10px;
+    background-image: url("/../assets/ukraine.jpg");
+    background-size: contain;
+    color: white;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.container h1 img {
+    width: 75px;
+    padding-bottom: 10px;
+}

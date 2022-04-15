@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { SearchComponent } from './search/search.component';
 import { MainComponent } from './main/main.component';
+import { FlagComponent } from './flag/flag.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavigationComponent,
     SearchComponent,
-    MainComponent
+    MainComponent,
+    FlagComponent
   ],
   imports: [
     BrowserModule,
